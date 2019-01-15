@@ -1,0 +1,2 @@
+# springcloud_sample_config
+Spring Cloud config演示git作为后端配置仓库所使用的配置文件，3个客户端配置，3个发现服务器配置文件
